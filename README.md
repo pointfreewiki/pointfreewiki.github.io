@@ -1,6 +1,6 @@
 ##
 
-[pointfreewiki](https://pointfreewiki.github.io): \
+[pointfreewiki](https://pointfreewiki.github.io):
 \
 * [Readme](Readme.pdf) \
 * [Tutorial](Tutorial.pdf) \
