@@ -2,8 +2,10 @@
 
 [pointfreewiki.github.io](https://pointfreewiki.github.io):
 
-* [Readme](Readme.pdf)
-* [Tutorial](Tutorial.pdf)
+* [Readme.pdf](Readme.pdf)
+* [Tutorial.pdf](Tutorial.pdf)
 * [FL-PLaSM-Folder](https://github.com/metazip/plasmfiles/tree/main/FL-PLaSM)
-* [FL-PLaSM.zip](https://github.com/metazip/plasmfiles/blob/main/FL-PLaSM.zip)
+* [FL-PLaSM-win.zip](FL-PLaSM-win.zip)
+
+  
 * [PLaSM-index](PLaSM-index.html)
