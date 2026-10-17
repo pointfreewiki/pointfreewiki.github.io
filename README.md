@@ -8,5 +8,5 @@
 * [FL-PLaSM-win.zip](FL-PLaSM-win.zip) downloading the zip file
 
 \
-![plasm5](https://github.com/pointfreewiki/pointfreewiki.github.io/blob/main/plasm5screen.png)
-\
+![plasm5](plasm5screen.png)
+
