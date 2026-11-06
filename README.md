@@ -1,7 +1,3 @@
-
-
-[pointfreewiki.github.io](https://pointfreewiki.github.io):
-
 ![pointfreewiki](images/a4412.webhosting.png)
 * [Readme.pdf](Readme.pdf) to the installers
 * [Tutorial.pdf](Tutorial.pdf) compilation of two files from plasm.net
