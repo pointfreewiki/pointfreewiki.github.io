@@ -5,6 +5,7 @@
 * [FL-PLaSM-win.zip](FL-PLaSM-win.zip) downloading the zip file
 
 \
+[mjoy](mjoy) \
 [Algebra Of Programs](algebra-of-programs) \
 [Metacomposition Rule](metacomposition-rule) \
 [Cells in Pointfrip](cells-in-pointfrip) \
