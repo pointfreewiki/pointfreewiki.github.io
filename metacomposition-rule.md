@@ -1,3 +1,4 @@
+### metacomposition-rule
 
-![metcomp](metacomposition.png)
+![metcomp](images/metacomposition.png)
 
