@@ -5,6 +5,6 @@
 * [FL-PLaSM-win.zip](FL-PLaSM-win.zip) downloading the zip file
 
 \
-[Algebra Of Programs](algebra-of-programs)
-[Metacomposition Rule](metacomposition-rule)
+[Algebra Of Programs](algebra-of-programs) \
+[Metacomposition Rule](metacomposition-rule) \
 
