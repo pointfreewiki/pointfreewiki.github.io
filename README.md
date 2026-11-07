@@ -6,6 +6,7 @@
 
 \
 [mjoy](mjoy) \
+[Pointfrip](pointfrip) \
 [Algebra Of Programs](algebra-of-programs) \
 [Metacomposition Rule](metacomposition-rule) \
 [Cells in Pointfrip](cells-in-pointfrip) \
