@@ -1,4 +1,4 @@
-## algebra of programs
+### algebra of programs
 
-![AOP](images/AOP.png)
+![AOP](images/AOP.png?30%)
 
