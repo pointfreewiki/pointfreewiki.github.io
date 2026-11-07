@@ -6,5 +6,7 @@
 
 \
 [Algebra Of Programs](algebra-of-programs) \
-[Metacomposition Rule](metacomposition-rule) 
+[Metacomposition Rule](metacomposition-rule) \
+[Cells in Pointfrip](cells-in-pointfrip) \
+[Example of Stack Class](example-of-stack-class)
 
