@@ -6,5 +6,5 @@
 
 \
 [Algebra Of Programs](algebra-of-programs) \
-[Metacomposition Rule](metacomposition-rule) \
+[Metacomposition Rule](metacomposition-rule) 
 
