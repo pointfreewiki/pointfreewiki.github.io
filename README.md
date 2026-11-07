@@ -5,5 +5,5 @@
 * [FL-PLaSM-win.zip](FL-PLaSM-win.zip) downloading the zip file
 
 \
-[Algebra Of Programs](pointfreewiki.github.io/algebra-of-programs)
+[Algebra Of Programs](pointfreewiki.github.io/algebra-of-programs.md)
 
