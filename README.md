@@ -7,6 +7,7 @@
 \
 [mjoy](mjoy) \
 [Pointfrip](pointfrip) \
+[Joy Of Postfix](joy-of-postfix) \
 [Algebra Of Programs](algebra-of-programs) \
 [Metacomposition Rule](metacomposition-rule) \
 [Cells in Pointfrip](cells-in-pointfrip) \
