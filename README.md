@@ -7,9 +7,7 @@
 * [FL-PLaSM-win.zip](FL-PLaSM-win.zip) downloading the zip file
 
 
-##
-\
-**Wiki** \
+## Wiki
 \
 [mjoy](mjoy) \
 [Pointfrip](pointfrip) \
